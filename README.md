@@ -6,7 +6,7 @@ La empresa ZERO Technology, solicita al Equipo de DevOps Trainer, la conteneriza
 - Backend: products & shopping-cart
 
 #### Frontend
-Aplicacion realizada en express y se expone en el puerto 3000
+Aplicacion realizada en express y se expone en el puerto 3000 
 
 ### Backend products
 Aplicacion realizada en express y se expone en el puerto 3001
